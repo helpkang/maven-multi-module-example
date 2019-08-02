@@ -5,8 +5,9 @@
 
     <parent>
         <groupId>com.jamesward</groupId>
-        <artifactId>multi</artifactId>
+        <artifactId>module1</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <!-- <relativePath>../web</relativePath> -->
     </parent>
 
     <artifactId>app</artifactId>
